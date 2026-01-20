@@ -179,12 +179,12 @@
   border: none;
 }
 
-.recipes__video_caption {
+.recipes__videos_caption {
   display: flex;
   justify-content: space-between;
 }
 
-.recipes__video_caption_item {
+.recipes__videos_caption_item {
   font-family: "Inter";
   font-style: normal;
   font-weight: 500;
