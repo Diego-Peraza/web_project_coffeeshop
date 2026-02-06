@@ -99,10 +99,19 @@
   right: 5px;
 }
 
+.header__footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin-top: auto;
+}
+
 .header__paragraph {
-  position: absolute;
-  bottom: 40px;
-  left: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
 }
 
 .header__paragraph_item {
